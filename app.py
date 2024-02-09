@@ -29,7 +29,7 @@ stemmer_en = PorterStemmer()
 ##########################################################################
 # sidebar
 st.sidebar.image(
-    "https://blog.text-summarize.com/wp-content/uploads/2020/07/differences-between-extractive-and-abstractive-summary-900x506.jpeg",
+    "https://miro.medium.com/v2/resize:fit:720/format:webp/1*bdumEoU0MlHHEpiF5gn81w.jpeg",
     width = 300
 )
 st.sidebar.title("Hi there, Welcome 👋")
